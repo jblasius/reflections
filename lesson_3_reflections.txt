@@ -9,3 +9,6 @@ Forks are a Github exclusive feature. They are a "copy" of a repository created 
 Clones are copies of repositories without a link to the original.
 Branches are used to extend the project, but not affect the current version.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+If you are working offline you can do a diff or log to see what is different of a history of the changes in the remote repo.
+
